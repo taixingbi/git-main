@@ -1,2 +1,1 @@
-print("hello, git")
-print("add 890 ")
+print("main commit")
